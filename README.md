@@ -2,6 +2,8 @@
 
 Main parts of 12th place solution of kaggle Corporación Favorita Grocery Sales Forecasting competition.
 
+Description of solution is here https://www.kaggle.com/c/favorita-grocery-sales-forecasting/discussion/47667.
+
 ### files description
 
 feature_engineering.py - calculating and saving engineered features
